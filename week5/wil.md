@@ -1,4 +1,4 @@
-week5-wil
+week5-wil(https://jiwoo.tistory.com/entry/DL-w5)
 지난주차까지 주로 다루었던 이미지 데이터와 달리, 데이터의 순서가 중요한 순차 데이터(Sequential Data)의 종류와 특징을 공부하고,  
 이를 처리하기 위한 NLP(자연어 처리) 기술이 어떻게 발전해왔는지 배웠다.   
 순서와 문맥을 처리하기 위해 이전 정보를 활용하는 구조인 RNN이 등장했다. 현재 시점의 입력과 이전 시점의 Hidden State를 이용해 새로운 Hidden State를 계산하고,  
